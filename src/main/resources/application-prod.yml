@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Journal App
+  main:
+    allow-circular-references: true
+
+
+
