@@ -1,6 +1,5 @@
 package com.parth.journalApp.entity;
 
-import com.mongodb.connection.ProxySettings;
 import lombok.Data;
 import lombok.NonNull;
 import org.bson.types.ObjectId;
